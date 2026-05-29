@@ -81,6 +81,14 @@ This project also includes custom-designed 3D printed components to improve the 
 
 These parts were designed and printed specifically for this project to create a cleaner and more reliable recycling system.
 
+---
+## Project Background
+
+This project was developed between the end of 2024 and the beginning of 2025 as an embedded systems and hardware engineering project.
+
+The project was later presented at the Third Governance Conference at Northern Technical University in Mosul on February 10, 2026.
+
+This project was originally built as an earlier hardware and embedded systems project and was later cleaned, documented, and uploaded to GitHub as part of my engineering portfolio.
 
 
 ## Author
